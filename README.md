@@ -37,7 +37,7 @@ Overall, the Analog Clock project on GitHub is a testament to the beauty of simp
 
 ## Copyright Notice
 
-All content, including but not limited to code, documentation, and assets, within the T-Customizer repository is protected under copyright law. This repository, authored by Akshat [MrTech-AK], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
+All content, including but not limited to code, documentation, and assets, within the Analog.ClockOnline repository is protected under copyright law. This repository, authored by Akshat [MrTech-AK], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
 
 You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
 ```go
