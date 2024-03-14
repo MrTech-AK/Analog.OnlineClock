@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/Author-MrTech.AK-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Version-v1.0-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
-</p>
+  </p>
 
 ## Description
 The Analog Clock project on GitHub is a beautifully crafted representation of time in a classic analog format. Developed with precision and elegance, this clock brings the charm of traditional timekeeping to the digital realm.
